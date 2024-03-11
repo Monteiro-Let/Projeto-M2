@@ -270,17 +270,17 @@ button {
 }
 
 .container-bar {
-    /* display: none; */
+    display: none;
 }
 
 .container-form {
-    /* display: none; */
+    display: none;
 }
 
 .header {
-    display: none;
+    /* display: none; */
 }
 
 .container-table {
-    display: none;
+    /* display: none; */
 }
