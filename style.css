@@ -118,7 +118,7 @@ fieldset {
     width: 450px;
     height: 220px;
     border: none;
-    gap: 15px;
+    gap: 40px;
     margin-bottom: 50px;
 }
 
@@ -144,7 +144,7 @@ label {
     margin-bottom: 35px;
 }
 
-#firstName, #lastName, #email, #contact, #date, #time {
+#firstName, #lastName, #date, #time {
     width: 170px;
     height: 30px;
 }
@@ -229,11 +229,6 @@ button {
     list-style: none;
 }
 
-.registrations {
-    border-left: #1daa75;
-    height: 2px;
-}
-
 .registrations ul {
     display: flex;
     flex-direction: row;
@@ -269,18 +264,20 @@ button {
     font-size: 25px;
 }
 
+
+
 .container-bar {
-    display: none;
+    /* display: none; */
 }
 
 .container-form {
-    display: none;
+  /* display: none; */
 }
 
-.header {
-    /* display: none; */
+.header { 
+  /* display: none;  */
 }
 
-.container-table {
-    /* display: none; */
-}
+ .container-table {
+  /* display: none; */
+} 
